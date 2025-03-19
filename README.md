@@ -20,3 +20,4 @@ En ningun caso se podrá utilizar tablas de mortalidad con una antigüedad super
   - ***PASEM2020_2ndo.csv*** - diferenciando los seguros de vida-riesgo y decesos
   - ***PASEM2020_1ero.csv*** - diferenciando los seguros de vida-riesgo y decesos con recargos técnicos
 - ***PEAIMF2007.csv*** para invalidez permanente
+- ***OM77.xlsx*** para la invalidez según la orden ministerial del 77
